@@ -3,7 +3,7 @@
 
 ## Overview
 
-[WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) is a Twitter account that rates people's dogs with humorous comments about the dog. These ratings almost always have a denominator of 10, while the numerators can be greater than 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Sometimes, they mention the breed of the dog in their tweets, and other times, they don’t. WeRateDogs has over 4 million followers and has received international media coverage.
+[WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) is a Twitter account that rates people's dogs with humorous comments about the dog. These ratings almost always have a denominator of 10, while the numerators can be greater than 10. Sometimes, they mention the breed of the dog in their tweets, and other times, they don’t.
 
 The main objective of this project is to gather data from 3 different sources, perform data wrangling on provided data sets, store and analyze the wrangled data and also Reporting on the data wrangling efforts, analysis and visualizations.
 
